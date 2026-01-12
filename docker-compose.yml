@@ -8,3 +8,19 @@ services:
       - "8888:8888"
     volumes:
       - .:/app
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:15
+    container_name: postgres-manchester
+    environment:
+      POSTGRES_DB: case_manchester
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data:/data
+      - ./sql:/sql
+
