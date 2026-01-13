@@ -12,11 +12,11 @@ Para mais detalhes sobre o desafio, acesse o link: https://github.com/manchester
 
 - Modelar dados para análise relacional
 
-- Criar consultas SQL orientadas a negócio
+- Criar consultas SQL para dar suporte ao negócio
 
-- Construir um dashboard interativo no Power BI
+- Construir um dashboard interativo no Power BI para responder perguntas do negócio
 
-- Comunicar insights de forma clara e estruturada
+- Comunicar insights de forma direta, detalhada e estruturada
 
 ## 🧠 Visão Geral da Arquitetura
 
