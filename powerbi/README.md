@@ -131,4 +131,4 @@ Caso solicitado, atualize as conexões de dados
 
 ## 📌 Observação
 
-O dashboard complementa as análises realizadas em Python e SQL, garantindo consistência entre métricas, consultas e visualizações apresentadas ao longo do case.
+O dashboard complementa de forma visual e interativa as análises realizadas em Python e SQL.
